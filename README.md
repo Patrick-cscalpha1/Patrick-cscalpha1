@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Patrick @Salesforce Solution Engineer at NTT data
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning new techniologies in solving various issues 
+- 🌱 I’m currently learning new techniologies to solving various issues 
 - 📫 How to reach me on linkedin https://www.linkedin.com/in/patrick-joel-tekam-511389188/
 
 <!---
